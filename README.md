@@ -1,10 +1,10 @@
-👋 Hi, my name is CP. 
+👋 Hi, my name is CP, mostly known as the [Webbouwer](https://github.com/webbouwer)
 
-[Creative Propulsions](https://github.com/CreativePropulsions) is my personal account for online tinkering.
+[Creative Propulsions](https://github.com/CreativePropulsions) is my personal github account for online tinkering.
 
-I'm the founder of [Oddsized interactive™](https://oddsized.com/) (github.com/[Oddsized](https://github.com/Oddsized)) providing Creative Direction, Artwork and IT management. 
+I've studied Painting and Multimedia (M.A. Royale Academy of Arts The Hague 2001) and now I'm an entrepeneur in Art and IT @ [Oddsized interactive™](https://oddsized.com/) (github.com/[Oddsized](https://github.com/Oddsized)) 
 
-Latest webdesign and development work can be found at github.com/[Webbouwer](https://github.com/webbouwer) (Webdesign Den Haag™).
+I founded the [Webdesign Den Haag™](https://webdesigndenhaag.net/) company for building the web.
 
 [Webdesign Den Haag™](https://webdesigndenhaag.net/) is a trademark of [Oddsized interactive™](https://oddsized.com/) Copyright 2008-2022
 
