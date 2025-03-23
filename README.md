@@ -1,4 +1,4 @@
-👋 Hi, my name is CP, i'm an entrepeneur in Art and IT @ [Oddsized interactive™](https://oddsized.com/) (github.com/[Oddsized](https://github.com/Oddsized)). 
+👋 Hi, my name is CP, i'm an entrepeneur @ [Oddsized interactive™](https://oddsized.com/) (github.com/[Oddsized](https://github.com/Oddsized)). 
 
 [Creative Propulsions™](https://github.com/CreativePropulsions) is my personal github account for online tinkering.
 
